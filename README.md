@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://camo.githubusercontent.com/a0df174ba41e40d…36561726368267269643d67697068792e6769662663743d67" width:100%; height:auto;>
+<img src="https://camo.githubusercontent.com/a0df174ba41e40d…36561726368267269643d67697068792e6769662663743d67">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar7488&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar7488" /> </p>
 
 - 🌱 I’m currently learning **AWS**
