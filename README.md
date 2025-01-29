@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif" width:100%; height:auto;>
+<img src="[https://media.tenor.com/-SV9TjUGabMAAAAM/hacker-python.gif](https://camo.githubusercontent.com/a0df174ba41e40de713280785b668a18fddcb528b723c860904bc79289979d85/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f4c5051367a32686c486d7746633448736f2f67697068792e6769663f6369643d6563663035653437716b6e696773676663307437757862656d76656a697569626a6d306d7735707532336268706c62642665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67)" width:100%; height:auto;>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar7488&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar7488" /> </p>
 
 - 🌱 I’m currently learning **AWS**
